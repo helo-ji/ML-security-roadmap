@@ -19,7 +19,7 @@ The prerequisite labs build the foundation needed for the main projects.
 
 - [x] Lab 0 — Python Fundamentals
 - [x] Lab 1 — NumPy Fundamentals
-- [ ] Lab 2 — Pandas Fundamentals
+- [x] Lab 2 — Pandas Fundamentals
 - [ ] Lab 3 — Visualization and EDA
 - [ ] Lab 4 — Machine Learning Fundamentals
 - [ ] Lab 5 — Classification Evaluation
