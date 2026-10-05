@@ -21,8 +21,8 @@ The prerequisite labs build the foundation needed for the main projects.
 - [x] Lab 1 — NumPy Fundamentals
 - [x] Lab 2 — Pandas Fundamentals
 - [x] Lab 3 — Visualization and EDA
-- [ ] Lab 4 — Machine Learning Fundamentals
-- [ ] Lab 5 — Classification Evaluation
+- [x] Lab 4 — Machine Learning Fundamentals
+- [x] Lab 5 — Classification Evaluation
 
 ## Project 1 — Adversarially Robust Network Intrusion Detection
 
