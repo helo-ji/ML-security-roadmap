@@ -26,19 +26,29 @@ The prerequisite labs build the foundation needed for the main projects.
 
 ## Project 1 — Adversarially Robust Network Intrusion Detection
 
-Build a network intrusion detection system and investigate adversarial attacks against machine-learning-based security systems.
+Build a machine-learning-based network intrusion detection prototype that analyses network-traffic records and classifies them as normal or suspicious.
+
+The initial MVP focuses on training a model, evaluating its predictions, and providing a simple interface for analysing traffic records.
 
 Topics include:
-
 - Dataset exploration
 - Data preprocessing
-- Data leakage
+- Train/test splitting
 - Baseline models
 - Class imbalance
+- Classification metrics
 - Error analysis
+- Interactive Streamlit interface
+- Reproducible model training
+- Testing and GitHub Actions
+- Planned Security Extension
+
+Extend the detector to investigate the robustness of machine-learning-based security systems against adversarial attacks.
+
+Planned topics include:
 - Adversarial examples
-- FGSM
-- PGD
+- Fast Gradient Sign Method (FGSM)
+-Projected Gradient Descent (PGD)
 - Attack strength
 - Adversarial training
 - Robustness evaluation
@@ -64,6 +74,37 @@ Topics include:
 - Evaluation
 - Docker
 - Privacy considerations
+## Future Project Ideas
+
+Alternative projects to explore after the current roadmap projects.
+
+### Future Idea 1 — Security Log Analyser
+
+Build a Python tool that analyses authentication logs and identifies suspicious patterns, such as repeated failed login attempts and unusual activity.
+
+**Topics:**
+- Log parsing and pattern detection
+- Python automation
+- Security monitoring and SOC workflows
+- Alerts and reporting
+- DevOps fundamentals
+
+
+
+### Future Idea 2 — Secure Python API with CI Security Checks
+
+Build a small Python API with Docker, automated tests, and security checks integrated into a CI pipeline.
+
+**Topics:**
+- REST API fundamentals
+- Input validation and secure coding
+- Automated testing
+- Docker
+- CI pipelines
+- Dependency and code security checks
+- DevSecOps fundamentals
+
+
 
 ## Repository Structure
 
